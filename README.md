@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[![website](https://svg-clipart.com/thumbs/white/nOGL9bj-white-globe-clipart.jpg)](https://goodnessabia.io#gh-light-mode-only)
-[![website](https://svg-clipart.com/thumbs/white/nOGL9bj-white-globe-clipart.jpg)](https://goodnessabia.io#gh-dark-mode-only)
+[![website]()](https://goodnessabia.io#gh-light-mode-only)
+[![website]()](https://goodnessabia.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/goodnessabia#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/goodnessabia#gh-dark-mode-only)
