@@ -22,8 +22,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/goodnessabia#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/goodnessabia#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/goodness-abia-b4ab85223/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/goodness-abia-b4ab85223/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/goodness-abia-6772b3179/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/goodness-abia-6772b3179/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/goodnessabia#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/goodnessabia#gh-dark-mode-only)
@@ -45,4 +45,4 @@
 [website]: https://goodnessabia.io
 [twitter]: https://twitter.com/goodnessabia
 [instagram]: https://instagram.com/goodnessabia
-[linkedin]: https://www.linkedin.com/in/goodness-abia-6772b3179
+[linkedin]: https://www.linkedin.com/in/goodness-abia-6772b3179/
