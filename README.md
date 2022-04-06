@@ -38,11 +38,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="goodnessabia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acegraphix&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="goodnessabia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=goodnessabiax&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
 [website]: https://goodnessabia.io
 [twitter]: https://twitter.com/goodnessabia
 [instagram]: https://instagram.com/goodnessabia
-[linkedin]: https://www.linkedin.com/in/goodness-abia-b4ab85223/
+[linkedin]: https://www.linkedin.com/in/goodness-abia-6772b3179
